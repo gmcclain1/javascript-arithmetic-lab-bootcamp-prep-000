@@ -4,6 +4,6 @@ function add5(a,b) {
   return a + b;
 }
 add5(a,b);
-subtract()
-multiply()
-divide()
+function subtract()
+function multiply()
+function divide()
