@@ -13,3 +13,6 @@ function multiply(a,b) {
 function divide(a,b) {
   return a / b;
 }multiply(a,b)
+function inc(a) {
+  
+}
